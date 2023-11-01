@@ -1,2 +1,2 @@
 # learn-shelllang
-shell scripting topics
+list of shell scripting topics
